@@ -6,8 +6,7 @@ function Videos() {
 
   return (
     <div className="Videos">
-       <h1 className='titulo'>Ferragens & Acessórios</h1>
-       <Listagem />
+      
     </div>
   )
 }

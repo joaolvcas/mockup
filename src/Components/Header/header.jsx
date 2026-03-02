@@ -27,7 +27,7 @@ function Header() {
         <FiMenu
           size={35}
           className="Menu"
-          onClick={() => setMenuOpen(true)}
+         onClick={() => setMenuOpen(true)}
         />
       </div>
 
