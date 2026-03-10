@@ -7,6 +7,8 @@ import { FiMenu, FiX } from "react-icons/fi";
 import MDFS from '../../assets/2.jpg'
 import Ferramentas from '../../assets/3.jpg'
 import Institucional from '../../assets/4.jpg'
+import Quimicos from '../../assets/8.webp'
+import Compensados from '../../assets/7.jpg'
 import Portas from '../../assets/5.jpg'
 import Maquina from '../../assets/6.jpg'
 
@@ -51,8 +53,18 @@ function Header() {
 
           <div className="menuCard" onClick={() => goTo("/videos")}>
              <img src={Ferramentas} className="IconImage" />
-            <span>Ferragens e Ferramentas</span>
+            <span>Ferragens</span>
           </div>
+
+          <div className="menuCard" onClick={() => goTo("/quimicos")}>
+             <img src={Quimicos} className="IconImage" />
+            <span>Químicos</span>
+          </div>
+
+          <div className="menuCard" onClick={() => goTo("/compensados")}>
+             <img src={Compensados} className="IconImage" />
+            <span>Compensados</span>
+          </div>                    
 
           <div className="menuCard" onClick={() => goTo("/portas")}>
              <img src={Portas} className="IconImage" />
@@ -67,9 +79,9 @@ function Header() {
           <div className="menuCard" onClick={() => goTo("/institucional")}>
              <img src={Institucional} className="IconImage" />
             <span>Institucional</span>
-          </div>        
+          </div> 
+        </div>       
 
-        </div>
       </div>
     </>
   );

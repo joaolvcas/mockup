@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Porta Modelo A",
+    "descricao": "Porta de madeira com acabamento em verniz.",
+    "preco": "R$ 450,00",
+    "imagem": "portas/01.webp"
+  },
+  {
+   "id": 2,
+    "nome": "Porta Modelo B",
+    "descricao": "Porta branca com design moderno.",
+    "preco": "R$ 550,00",
+    "imagem": "portas/02.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Porta Modelo C",
+    "descricao": "Porta de madeira com frisos horizontais.",
+    "preco": "R$ 699,00",
+    "imagem": "portas/03.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Porta Modelo D",
+    "descricao": "Porta clara estilo freijó.",
+    "preco": "R$ 350,00",
+    "imagem": "portas/04.webp"
+  },
+  {
+    "id": 5,
+    "nome": "Porta Modelo D",
+    "descricao": "Porta clara estilo freijó.",
+    "preco": "R$ 350,00",
+    "imagem": "portas/05.webp"
+  },
+  {
+    "id": 6,
+    "nome": "Porta Modelo D",
+    "descricao": "Porta clara estilo freijó.",
+    "preco": "R$ 350,00",
+    "imagem": "portas/06.webp"
+  },
+  {
+    "id": 7,
+    "nome": "Porta Modelo D",
+    "descricao": "Porta clara estilo freijó.",
+    "preco": "R$ 350,00",
+    "imagem": "portas/07.webp"
+  },
+  {
+    "id": 8,
+    "nome": "Porta Modelo D",
+    "descricao": "Porta clara estilo freijó.",
+    "preco": "R$ 350,00",
+    "imagem": "portas/08.webp"
+  }
+]

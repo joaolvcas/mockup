@@ -18,13 +18,12 @@ import Fibraplac from "../../../../src/assets/fibraplac.png";
 
 function BrandOptions() {
   const { setBrand } = useContext(GlobalContext);
-  const [ativa, setAtiva] = useState("placas");
+  const [ativa, setAtiva] = useState("arauco");
 
   const marcas = [
     { id: 'placas', img: MiniaturaPlacas, miniatura: Placas},
     { id: 'arauco', img: MiniaturaArauco, miniatura: Arauco},
     { id: 'eucatex', img: MiniaturaEucatex, miniatura: Eucatex},
-    { id: 'duratex', img: MiniaturaDuratex, miniatura: Duratex},
     { id: 'fibraplac', img: MiniaturaFibraplac, miniatura: Fibraplac},
   ];
 

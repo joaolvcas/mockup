@@ -89,6 +89,12 @@
   display: flex;
   flex-direction: column;
   gap: 15px;
+  max-height: 100%; 
+  overflow-y: auto;
+}
+
+.drawerContent::-webkit-scrollbar {
+  display: none;
 }
 
 .menuCard {

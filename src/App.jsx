@@ -5,6 +5,7 @@ import Videos from './Components/Videos'
 import Foot from './Components/Foot'
 import './App.css'
 import { GlobalProvider } from "./context/GlobalContext";
+import Portas from './Components/Portas'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Catalogo />} />
          <Route path="/videos" element={<Videos />} />
+         <Route path="/portas" element={<Portas />} />
       </Routes>
 
     {/* <Foot /> */}
