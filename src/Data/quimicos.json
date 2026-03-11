@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Silicone Fixa Tudo Uso Geral Branco 400g Afix",
+    "descricao": "Produto com alta performace, para diversas aplicações.",
+    "preco": "R$ 15,00",
+    "imagem": "quimicos/afix.webp"
+  },
+  {
+   "id": 2,
+    "nome": "Cola Almasuper 100G",
+    "descricao": "Escolha confiável para diversas aplicações de colagem.",
+    "preco": "R$ 22,00",
+    "imagem": "quimicos/colaalmata.jpeg"
+  },
+  {
+    "id": 3,
+    "nome": "Adesivo Instantâneo Almasuper Kit MDF",
+    "descricao": "A Almata apresenta o KIT MDF composto por dois componentes.",
+    "preco": "R$ 26,70",
+    "imagem": "quimicos/almata.webp"
+  },
+  {
+    "id": 4,
+    "nome": "Cola de Contato 2,8kg Formica",
+    "descricao": "Capaz de colar diferentes Material com facilidade e rapidez.",
+    "preco": "R$ 350,00",
+    "imagem": "quimicos/formica.webp"
+  },
+  {
+    "id": 5,
+    "nome": "Cola Hot Melt Granulada Kisafix",
+    "descricao": "Solução ideal para colagem de fitas de bordas.",
+    "preco": "R$ 90,00",
+    "imagem": "quimicos/hotmelt.webp"
+  },
+  {
+    "id": 6,
+    "nome": "Cola Adesivo de Contato 250 Embalagem 2,8 Kg",
+    "descricao": "Adesivo de contato tradicional e de alto desempenho.",
+    "preco": "R$ 85,00",
+    "imagem": "quimicos/kisafix.webp"
+  },
+  {
+    "id": 7,
+    "nome": "Diluente Aguarrás Sayerraz DS-451 5,0 litros Sayerlack",
+    "descricao": "Utilizada para diluição de produtos sintéticos.",
+    "preco": "R$ 45,00",
+    "imagem": "quimicos/sayerraz.png"
+  },
+  {
+    "id": 8,
+    "nome": "Verniz Sintelack Transparente SB 2333 3,6l Sayerlack",
+    "descricao": "Garante, alta aderência, proteção a prova d'água.",
+    "preco": "R$ 169,00",
+    "imagem": "quimicos/sintelack.jpg"
+  }
+]

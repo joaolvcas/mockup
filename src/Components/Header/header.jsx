@@ -4,7 +4,7 @@ import "./header.css";
 import LogoBranca from "../../../src/assets/logobarrosobranca.jpg";
 import { FiMenu, FiX } from "react-icons/fi";
 
-import MDFS from '../../assets/2.jpg'
+import MDFS from '../../assets/2.png'
 import Ferramentas from '../../assets/3.jpg'
 import Institucional from '../../assets/4.jpg'
 import Quimicos from '../../assets/8.webp'
@@ -51,25 +51,21 @@ function Header() {
             <span>MDF's</span>
           </div>
 
-          <div className="menuCard" onClick={() => goTo("/videos")}>
-             <img src={Ferramentas} className="IconImage" />
-            <span>Ferragens</span>
-          </div>
-
-          <div className="menuCard" onClick={() => goTo("/quimicos")}>
-             <img src={Quimicos} className="IconImage" />
-            <span>Químicos</span>
+          <div className="menuCard" onClick={() => goTo("/portas")}>
+             <img src={Portas} className="IconImage" />
+            <span>Portas</span>
           </div>
 
           <div className="menuCard" onClick={() => goTo("/compensados")}>
              <img src={Compensados} className="IconImage" />
             <span>Compensados</span>
-          </div>                    
+          </div>    
 
-          <div className="menuCard" onClick={() => goTo("/portas")}>
-             <img src={Portas} className="IconImage" />
-            <span>Portas</span>
-          </div>
+          <div className="menuCard" onClick={() => goTo("/quimicos")}>
+             <img src={Quimicos} className="IconImage" />
+            <span>Químicos</span>
+          </div>                
+
 
           <div className="menuCard" onClick={() => goTo("/maquinas")}>
              <img src={Maquina} className="IconImage" />

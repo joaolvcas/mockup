@@ -6,6 +6,8 @@ import Foot from './Components/Foot'
 import './App.css'
 import { GlobalProvider } from "./context/GlobalContext";
 import Portas from './Components/Portas'
+import Quimicos from './Components/Quimicos'
+import Maquinas from './Components/Maquinas'
 
 function App() {
   return (
@@ -16,9 +18,10 @@ function App() {
         <Route path="/" element={<Catalogo />} />
          <Route path="/videos" element={<Videos />} />
          <Route path="/portas" element={<Portas />} />
+         <Route path="/quimicos" element={<Quimicos />} />
+         <Route path="/maquinas" element={<Maquinas />} />
       </Routes>
 
-    {/* <Foot /> */}
     </GlobalProvider>
   )
 }

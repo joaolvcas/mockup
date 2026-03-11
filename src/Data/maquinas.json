@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "SERRA CIRCULAR DE ESQUADRIA 210 MM - 8 Polegadas – MK.100.I",
+    "descricao": "",
+    "preco": "R$ 1.049,00",
+    "imagem": "maquinas/01.webp"
+  },
+  {
+   "id": 2,
+    "nome": "TRANSPORTADOR DE CHAPAS – TC.3000",
+    "descricao": "",
+    "preco": "R$ 1.499,00",
+    "imagem": "maquinas/02.webp"
+  },
+  {
+    "id": 3,
+    "nome": "FURADEIRA DE DOBRADIÇA COM 6 MANDRIS – FD/6",
+    "descricao": "",
+    "preco": "R$ 5.499,00",
+    "imagem": "maquinas/03.webp"
+  },
+  {
+    "id": 4,
+    "nome": "COLADEIRA DE BORDA COMPACTA COM MESA ROLETADA – CBC.ER - PORTÁTIL",
+    "descricao": "",
+    "preco": "R$ 7.299,00",
+    "imagem": "maquinas/04.webp"
+  },
+  {
+    "id": 5,
+    "nome": "COLADEIRA DE BORDA COM 2 COLEIROS E MESA ROLETADA – CBC/2.MR",
+    "descricao": "",
+    "preco": "R$ 14.399,00",
+    "imagem": "maquinas/05.webp"
+  },
+  {
+    "id": 6,
+    "nome": "SERRA CIRCULAR COM EIXO INCLINÁVEL – SC.1500.I",
+    "descricao": "",
+    "preco": "R$ 13.599,00",
+    "imagem": "maquinas/06.webp"
+  },
+  {
+    "id": 7,
+    "nome": "COLETOR DE PÓ ECO COM 1 BOCA E 1 RESERVATÓRIO BLACK EDITION – CP/1.C",
+    "descricao": "",
+    "preco": "R$ 2.599,00",
+    "imagem": "maquinas/07.webp"
+  },
+  {
+    "id": 8,
+    "nome": "LIXADEIRA COMBINADA DE DISCO E FITA – LDF",
+    "descricao": "",
+    "preco": "R$ 5.399,00",
+    "imagem": "maquinas/08.webp"
+  }
+]
