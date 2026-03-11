@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nome": "Compensado Naval",
+    "descricao": "Alta resistência à umidade.",
+    "espessura": "18mm",
+    "preco": "R$ 189,90",
+    "imagem": "/compensados/naval.webp",
+    "tipo": "naval"
+  },
+    {
+    "id": 2,
+    "nome": "Compensado Naval",
+    "descricao": "Alta resistência à umidade.",
+    "espessura": "15mm",
+    "preco": "R$ 120,90",
+    "imagem": "/compensados/naval.webp",
+    "tipo": "naval"
+  },
+  {
+    "id": 3,
+    "nome": "Compensado Plastificado",
+    "descricao": "Muito usado em formas de concreto.",
+    "espessura": "18mm",
+    "preco": "R$ 159,90",
+    "imagem": "/compensados/plastificado.webp",
+    "tipo": "plastificado"
+  },
+  {
+    "id": 4,
+    "nome": "Compensado Plastificado",
+    "descricao": "Muito usado em formas de concreto.",
+    "espessura": "15mm",
+    "preco": "R$ 110,90",
+    "imagem": "/compensados/plastificado.webp",
+    "tipo": "plastificado"
+  },
+{
+    "id": 5,
+    "nome": "Compensado Plastificado",
+    "descricao": "Muito usado em formas de concreto.",
+    "espessura": "06mm",
+    "preco": "R$ 85,90",
+    "imagem": "/compensados/plastificado.webp",
+    "tipo": "plastificado"
+  },
+  {
+    "id": 6,
+    "nome": "Parica",
+    "descricao": "Usado para móveis e marcenaria.",
+    "espessura": "18mm",
+    "preco": "R$ 159,90",
+    "imagem": "/compensados/parica.webp",
+    "tipo": "parica"
+  },
+  {
+    "id": 7,
+    "nome": "Parica",
+    "descricao": "Usado para móveis e marcenaria.",
+    "espessura": "15mm",
+    "preco": "R$ 130,90",
+    "imagem": "/compensados/parica.webp",
+    "tipo": "parica"
+  },
+{
+    "id": 8,
+    "nome": "Parica",
+    "descricao": "Usado para móveis e marcenaria.",
+    "espessura": "06mm",
+    "preco": "R$ 70,90",
+    "imagem": "/compensados/parica.webp",
+    "tipo": "parica"
+  },
+  {
+    "id": 9,
+    "nome": "Virola",
+    "descricao": "Usado em embalagens, tapumes e obras.",
+    "espessura": "18mm",
+    "preco": "R$ 159,90",
+    "imagem": "/compensados/virolinha.webp",
+    "tipo": "virola"
+  },
+  {
+    "id": 10,
+    "nome": "Pinus",
+    "descricao": "Usado em decoração e móveis rústicos.",
+    "espessura": "18mm",
+    "preco": "R$ 159,90",
+    "imagem": "/compensados/pinus.webp",
+    "tipo": "pinus"
+  }
+]

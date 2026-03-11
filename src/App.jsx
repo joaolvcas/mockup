@@ -8,6 +8,7 @@ import { GlobalProvider } from "./context/GlobalContext";
 import Portas from './Components/Portas'
 import Quimicos from './Components/Quimicos'
 import Maquinas from './Components/Maquinas'
+import Compensados from './Components/Compensados'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
          <Route path="/portas" element={<Portas />} />
          <Route path="/quimicos" element={<Quimicos />} />
          <Route path="/maquinas" element={<Maquinas />} />
+         <Route path="/compensados" element={<Compensados />} />
       </Routes>
 
     </GlobalProvider>
