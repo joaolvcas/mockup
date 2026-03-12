@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./header.css";
-import LogoBranca from "../../../src/assets/logobarrosobranca.jpg";
+import LogoBranca from "../../../src/assets/logo.png";
 import { FiMenu, FiX } from "react-icons/fi";
 
 import MDFS from '../../assets/2.png'
 import Ferramentas from '../../assets/3.jpg'
-import Institucional from '../../assets/4.jpg'
+import Institucional from '../../assets/logo.png'
 import Quimicos from '../../assets/8.webp'
 import Compensados from '../../assets/7.jpg'
 import Portas from '../../assets/5.jpg'
