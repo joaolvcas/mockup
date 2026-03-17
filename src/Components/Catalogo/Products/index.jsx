@@ -12,6 +12,7 @@ import { useState } from "react";
 import { FiArrowUp  } from "react-icons/fi";
 import { useContext } from "react";
 import { GlobalContext } from "../../../context/GlobalContext";
+import Soon from "../../Soon/index.jsx";
 
 function Products() {
   const [selectedProduct, setSelectedProduct] = useState(null);
@@ -34,6 +35,9 @@ function Products() {
     <div className="products">
         {productsData.map((padrao) => (
         <div key={padrao.id} className="product" onClick={() => setSelectedProduct(padrao)} >
+          {padrao?.soon && (
+          <Soon />
+          )}
             <img
             src={padrao.src}
             alt={padrao.nome}

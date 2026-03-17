@@ -1,59 +1,65 @@
 [
   {
-    "id": "elmopalmareslinheiro",
-    "textura": "linheiro",
-    "nome": "Elmo Palmares",
-    "src": "placasdobrasil/elmopalmareslinheiro.png",
+    "id": "alocasiapele",
+    "textura": "pele",
+    "nome": "Alocásia",
+    "src": "placasdobrasil/alocasiapele.png",
+    "soon": true,
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
     }
   },
   {
-    "id": "nogueiracaiapolinheiro",
-    "textura": "linheiro",
-    "nome": "Nogueira Caiapó",
-    "src": "placasdobrasil/nogueiracaiapolinheiro.png",
+    "id": "tauarisolarporonatural",
+    "textura": "Poro",
+    "nome": "Tauarí",
+    "src": "placasdobrasil/tauarisolarporonatural.png",
+    "soon": true,
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
     }
   },
   {
-    "id": "acacianativa",
-    "textura": "nativa",
-    "nome": "Acácia",
-    "src": "placasdobrasil/acacianativa.png",
+    "id": "azulatlanticopele",
+    "textura": "pele",
+    "nome": "Azul Atlântico",
+    "src": "placasdobrasil/azulatlanticopele.png",
+    "soon": true,
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
     }
   },
   {
-    "id": "perobadobrasilnativa",
-    "textura": "nativa",
-    "nome": "Peroba do Brasil",
-    "src": "placasdobrasil/perobadobrasilnativa.png",
+    "id": "carvalhoangrasintonia",
+    "textura": "Sintonia",
+    "nome": "Carvalho Angra",
+    "src": "placasdobrasil/carvalhoangrasintonia.png",
+    "soon": true,
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
     }
   },
   {
-    "id": "jequitibareinativa",
-    "textura": "nativa",
-    "nome": "Jequitibá Rei",
-    "src": "placasdobrasil/jequitibareinativa.png",
+    "id": "luartear",
+    "textura": "Tear",
+    "nome": "Luar",
+    "src": "placasdobrasil/luartear.png",
+    "soon": true,
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
     }
   },
   {
-    "id": "freijoporonatural",
-    "textura": "poro natural",
-    "nome": "Freijó",
-    "src": "placasdobrasil/freijoporonatural.png",
+    "id": "ipedouradonativa",
+    "textura": "Nativa",
+    "nome": "Ipê Dourado",
+    "soon": true,
+    "src": "placasdobrasil/ipedouradonativa.png",
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
@@ -145,6 +151,66 @@
     "textura": "tear",
     "nome": "Poente",
     "src": "placasdobrasil/poentetear.png",
+    "marca": {
+      "nome": "Placas do Brasil",
+      "src":  "placasdobrasil/placasdobrasil.png"
+    }
+  },
+  {
+    "id": "elmopalmareslinheiro",
+    "textura": "linheiro",
+    "nome": "Elmo Palmares",
+    "src": "placasdobrasil/elmopalmareslinheiro.png",
+    "marca": {
+      "nome": "Placas do Brasil",
+      "src":  "placasdobrasil/placasdobrasil.png"
+    }
+  },
+  {
+    "id": "nogueiracaiapolinheiro",
+    "textura": "linheiro",
+    "nome": "Nogueira Caiapó",
+    "src": "placasdobrasil/nogueiracaiapolinheiro.png",
+    "marca": {
+      "nome": "Placas do Brasil",
+      "src":  "placasdobrasil/placasdobrasil.png"
+    }
+  },
+  {
+    "id": "acacianativa",
+    "textura": "nativa",
+    "nome": "Acácia",
+    "src": "placasdobrasil/acacianativa.png",
+    "marca": {
+      "nome": "Placas do Brasil",
+      "src":  "placasdobrasil/placasdobrasil.png"
+    }
+  },
+  {
+    "id": "perobadobrasilnativa",
+    "textura": "nativa",
+    "nome": "Peroba do Brasil",
+    "src": "placasdobrasil/perobadobrasilnativa.png",
+    "marca": {
+      "nome": "Placas do Brasil",
+      "src":  "placasdobrasil/placasdobrasil.png"
+    }
+  },
+  {
+    "id": "jequitibareinativa",
+    "textura": "nativa",
+    "nome": "Jequitibá Rei",
+    "src": "placasdobrasil/jequitibareinativa.png",
+    "marca": {
+      "nome": "Placas do Brasil",
+      "src":  "placasdobrasil/placasdobrasil.png"
+    }
+  },
+  {
+    "id": "freijoporonatural",
+    "textura": "poro natural",
+    "nome": "Freijó",
+    "src": "placasdobrasil/freijoporonatural.png",
     "marca": {
       "nome": "Placas do Brasil",
       "src":  "placasdobrasil/placasdobrasil.png"
