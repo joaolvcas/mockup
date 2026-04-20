@@ -60,22 +60,6 @@ function Header() {
              <img src={Compensados} className="IconImage" />
             <span>Compensados</span>
           </div>    
-
-          <div className="menuCard" onClick={() => goTo("/quimicos")}>
-             <img src={Quimicos} className="IconImage" />
-            <span>Químicos</span>
-          </div>                
-
-
-          <div className="menuCard" onClick={() => goTo("/maquinas")}>
-             <img src={Maquina} className="IconImage" />
-            <span>Máquinas</span>
-          </div>            
-
-          <div className="menuCard" onClick={() => goTo("/institucional")}>
-             <img src={Institucional} className="IconImage" />
-            <span>Institucional</span>
-          </div> 
         </div>       
 
       </div>
