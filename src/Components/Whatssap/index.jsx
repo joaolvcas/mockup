@@ -34,81 +34,22 @@ function Whatssap({mdf}) {
              <img src={Padrao} alt="Foto" />
           </div>
            <div className="Bag">
-              <p className="Phone">Nayara Alencar</p>
-              <p className="Phone">(89) 9985-0000</p>
+              <p className="Phone">Vendedor 01</p>
+              <p className="Phone">(89) 9999-0000</p>
           </div>
 
         </div>
 
-        <div className="contactItem"  onClick={() => window.open(`https://wa.me/558999040012?text=${mensagem}`, "_blank")}>
+        <div className="contactItem"  onClick={() => window.open(`https://wa.me/55899999999?text=${mensagem}`, "_blank")}>
            <div className="avatar">
              <img src={Padrao} alt="Foto" />
           </div>
            <div className="Bag">
-              <p className="Phone">Beatriz Rocha</p>
-              <p className="Phone">(89) 9904-0000</p>
+              <p className="Phone">Vendedor 02</p>
+              <p className="Phone">(89) 9999-0000</p>
           </div>
 
         </div>
-
-          <div className="contactItem"  onClick={() => window.open(`https://wa.me/558999300399?text=${mensagem}`, "_blank")}>
-           <div className="avatar">
-             <img src={Padrao} alt="Foto" />
-          </div>
-           <div className="Bag">
-              <p className="Phone">Caio Barros</p>
-              <p className="Phone">(89) 9930-0000</p>
-          </div>
-
-        </div>
-
-              <div className="contactItem"  onClick={() => window.open(`https://wa.me/558999040015?text=${mensagem}`, "_blank")}>
-           <div className="avatar">
-             <img src={Padrao} alt="Foto" />
-          </div>
-           <div className="Bag">
-              <p className="Phone">Júnior</p>
-              <p className="Phone">(89) 9904-0000</p>
-          </div>
-
-        </div>
-
-        <div className="location">
-          <p className="City">Picos e região</p>
-          
-        <div className="contactItem"  onClick={() => window.open(`https://wa.me/558999850144?text=${mensagem}`, "_blank")}>
-           <div className="avatar">
-             <img src={Padrao} alt="Foto" />
-          </div>
-           <div className="Bag">
-              <p className="Phone">Tiago Luz</p>
-              <p className="Phone">(89) 9985-0000</p>
-          </div>
-
-        </div>
-          <div className="contactItem"  onClick={() => window.open(`https://wa.me/558999300880?text=${mensagem}`, "_blank")}>
-           <div className="avatar">
-             <img src={Padrao} alt="Foto" />
-          </div>
-           <div className="Bag">
-              <p className="Phone">Viviane Monteiro</p>
-              <p className="Phone">(89) 9930-0000</p>
-          </div>
-
-        </div>
-
-        <div className="contactItem"  onClick={() => window.open(`https://wa.me/558999850049?text=${mensagem}`, "_blank")}>
-           <div className="avatar">
-             <img src={Padrao} alt="Foto" />
-          </div>
-           <div className="Bag">
-              <p className="Phone">Leyde Daiane</p>
-              <p className="Phone">(89) 9985-0000</p>
-          </div>
-
-        </div>
-        </div>
-
       </div>
     </div>
     </div>
